@@ -1,4 +1,5 @@
 // here's my solution, it's pretty inelegant
+//but i wonder why the java is so much faster than python??
 class Solution {
   public String mergeAlternately(String word1, String word2) {
       String ret = "";
